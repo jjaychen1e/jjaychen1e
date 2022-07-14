@@ -18,29 +18,17 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 2,054 Contributions in the Year 2022
- > 
-> 📦 2.0 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 20 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
-🌆 Daytime    328 commits    ███████████░░░░░░░░░░░░░░   45.94% 
-🌃 Evening    306 commits    ██████████░░░░░░░░░░░░░░░   42.86% 
-🌙 Night      36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+🌆 Daytime    328 commits    ███████████░░░░░░░░░░░░░░   45.87% 
+🌃 Evening    306 commits    ██████████░░░░░░░░░░░░░░░   42.8% 
+🌙 Night      37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
 
 ```
 
@@ -69,5 +57,5 @@ Mac                      8 hrs 49 mins       ███████████�
 ```
 
 
- Last Updated on 14/07/2022 16:42:30 UTC
+ Last Updated on 14/07/2022 17:03:03 UTC
 <!--END_SECTION:waka-->
