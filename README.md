@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
@@ -69,5 +69,5 @@ Mac                      3 hrs 50 mins       ███████████�
 ```
 
 
- Last Updated on 14/07/2022 11:17:15 UTC
+ Last Updated on 14/07/2022 12:39:21 UTC
 <!--END_SECTION:waka-->
