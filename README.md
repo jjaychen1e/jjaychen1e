@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
