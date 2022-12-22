@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm a Night 🦉** 
 
@@ -39,21 +39,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        █████████████████░░░░░░░░   68.34% 
-JSON                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.11% 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        ████████████████░░░░░░░░░   64.81% 
-Sublime Text             48 mins             ████████░░░░░░░░░░░░░░░░░   35.19%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 21/12/2022 16:20:06 UTC
+ Last Updated on 22/12/2022 16:19:02 UTC
 <!--END_SECTION:waka-->
