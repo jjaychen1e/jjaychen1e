@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
-🌆 Daytime    289 commits    █████████░░░░░░░░░░░░░░░░   37.88% 
-🌃 Evening    355 commits    ███████████░░░░░░░░░░░░░░   46.53% 
-🌙 Night      70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17%
+🌞 Morning    49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+🌆 Daytime    289 commits    █████████░░░░░░░░░░░░░░░░   37.78% 
+🌃 Evening    356 commits    ███████████░░░░░░░░░░░░░░   46.54% 
+🌙 Night      71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.28%
 
 ```
 
@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      36 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      36 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/12/2022 16:18:02 UTC
+ Last Updated on 25/12/2022 16:17:39 UTC
 <!--END_SECTION:waka-->
