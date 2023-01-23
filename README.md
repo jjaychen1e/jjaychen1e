@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm a Night 🦉** 
 
@@ -39,18 +39,20 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 hrs 32 mins       ████████████████████████░   98.41% 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+Go                       5 hrs 21 mins       ████████████████████████░   96.44% 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 
 🔥 Editors: 
-GoLand                   6 hrs 32 mins       ████████████████████████░   98.41% 
-PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+GoLand                   5 hrs 21 mins       ████████████████████████░   96.44% 
+PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+Sublime Text             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       █████████████████████████   100.0%
+Mac                      5 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/01/2023 16:17:47 UTC
+ Last Updated on 23/01/2023 16:19:56 UTC
 <!--END_SECTION:waka-->
