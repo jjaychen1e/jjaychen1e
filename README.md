@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -38,17 +38,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 49 mins       █████████████████████████   99.66 % 
-AUTO_DETECTED            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Java                     8 hrs 8 mins        ███████████████████░░░░░░   77.84 % 
+TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-IntelliJ                 5 hrs 50 mins       █████████████████████████   100.00 % 
+IntelliJ                 8 hrs 28 mins       ████████████████████░░░░░   81.00 % 
+VS Code                  1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+GoLand                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      5 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/04/2023 16:18:15 UTC
+ Last Updated on 17/04/2023 16:20:16 UTC
 <!--END_SECTION:waka-->
