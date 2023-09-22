@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,15 +38,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       37 mins             ███████████████████████░░   92.80 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   37 mins             ███████████████████████░░   92.80 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/09/2023 16:21:38 UTC
+ Last Updated on 22/09/2023 16:20:29 UTC
 <!--END_SECTION:waka-->
