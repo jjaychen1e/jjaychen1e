@@ -38,18 +38,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       4 mins              ████████████████████████░   97.71 % 
-ShaderLab                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-HLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-UnityYaml                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/10/2023 16:23:32 UTC
+ Last Updated on 05/10/2023 16:21:56 UTC
 <!--END_SECTION:waka-->
