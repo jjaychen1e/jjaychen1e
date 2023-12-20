@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,15 +38,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-INI                      15 mins             █████████████████████████   100.00 % 
+INI                      15 mins             ████████████░░░░░░░░░░░░░   48.28 % 
+Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Java                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 
 🔥 Editors: 
-Sublime Text             15 mins             █████████████████████████   100.00 % 
+Sublime Text             24 mins             ███████████████████░░░░░░   76.38 % 
+VS Code                  7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/12/2023 16:23:08 UTC
+ Last Updated on 20/12/2023 16:20:45 UTC
 <!--END_SECTION:waka-->
