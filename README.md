@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **I'm a Night 🦉** 
 
@@ -54,5 +54,5 @@ Mac                      18 hrs 28 mins      ███████████�
 ```
 
 
- Last Updated on 19/05/2024 16:22:58 UTC
+ Last Updated on 20/05/2024 16:24:15 UTC
 <!--END_SECTION:waka-->
