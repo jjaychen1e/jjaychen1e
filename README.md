@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                878 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-🌆 Daytime                5544 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                5862 commits        ███████████░░░░░░░░░░░░░░   44.98 % 
+🌞 Morning                880 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌆 Daytime                5544 commits        ███████████░░░░░░░░░░░░░░   42.53 % 
+🌃 Evening                5862 commits        ███████████░░░░░░░░░░░░░░   44.97 % 
 🌙 Night                  749 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 
@@ -53,5 +55,5 @@ Mac                      10 hrs 15 mins      ███████████�
 ```
 
 
- Last Updated on 06/07/2024 17:44:04 UTC
+ Last Updated on 07/07/2024 17:50:37 UTC
 <!--END_SECTION:waka-->
