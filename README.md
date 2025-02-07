@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C775%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C776%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                875 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-🌆 Daytime                6346 commits        ████████████░░░░░░░░░░░░░   49.76 % 
-🌃 Evening                4785 commits        █████████░░░░░░░░░░░░░░░░   37.52 % 
-🌙 Night                  748 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+🌞 Morning                883 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+🌆 Daytime                6362 commits        ████████████░░░░░░░░░░░░░   49.79 % 
+🌃 Evening                4785 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
+🌙 Night                  748 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 
 
@@ -38,15 +38,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     32 mins             █████████████████░░░░░░░░   67.96 % 
+XML                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            34 mins             ██████████████████░░░░░░░   71.90 % 
+Cursor                   13 mins             ███████░░░░░░░░░░░░░░░░░░   28.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/02/2025 18:26:59 UTC
+ Last Updated on 07/02/2025 18:26:05 UTC
 <!--END_SECTION:waka-->
