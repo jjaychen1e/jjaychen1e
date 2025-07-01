@@ -18,39 +18,8 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C077%20hrs%205%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                952 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-🌆 Daytime                7199 commits        █████████████░░░░░░░░░░░░   52.15 % 
-🌃 Evening                4893 commits        █████████░░░░░░░░░░░░░░░░   35.44 % 
-🌙 Night                  761 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               4 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.89 % 
-Go                       2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-Java                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Protocol Buffer          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-🔥 Editors: 
-Cursor                   8 hrs 36 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      8 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 30/06/2025 17:19:17 UTC
+ Last Updated on 01/07/2025 17:19:30 UTC
 <!--END_SECTION:waka-->
