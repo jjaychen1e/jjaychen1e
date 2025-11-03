@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 
- Last Updated on 02/11/2025 16:59:09 UTC
+ Last Updated on 03/11/2025 17:04:04 UTC
 <!--END_SECTION:waka-->
