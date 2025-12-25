@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C756%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C760%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,19 +38,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   9 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.38 % 
-TypeScript               6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Lua                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Java                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Vue.js                   8 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.78 % 
+TypeScript               5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Lua                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Java                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 12 mins      █████████████████████████   100.00 % 
+Cursor                   18 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/12/2025 16:59:48 UTC
+ Last Updated on 25/12/2025 17:04:04 UTC
 <!--END_SECTION:waka-->
