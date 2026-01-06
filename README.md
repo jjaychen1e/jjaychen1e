@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C765%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C766%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1025 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-🌆 Daytime                6395 commits        ████████████░░░░░░░░░░░░░   48.65 % 
-🌃 Evening                4960 commits        █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌞 Morning                1025 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+🌆 Daytime                6405 commits        ████████████░░░░░░░░░░░░░   48.69 % 
+🌃 Evening                4960 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
 🌙 Night                  764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
@@ -38,15 +38,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 28 mins        ███████████████████████░░   90.98 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 36 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/01/2026 17:06:59 UTC
+ Last Updated on 06/01/2026 17:03:34 UTC
 <!--END_SECTION:waka-->
