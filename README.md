@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C941%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C944%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1025 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-🌆 Daytime                6738 commits        ████████████░░░░░░░░░░░░░   49.95 % 
-🌃 Evening                4963 commits        █████████░░░░░░░░░░░░░░░░   36.79 % 
-🌙 Night                  764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+🌞 Morning                1025 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+🌆 Daytime                6766 commits        █████████████░░░░░░░░░░░░   50.05 % 
+🌃 Evening                4964 commits        █████████░░░░░░░░░░░░░░░░   36.72 % 
+🌙 Night                  764 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 
 
@@ -38,22 +38,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
-Other                    7 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Vue.js                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Go                       21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    8 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
+TypeScript               8 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.59 % 
+Markdown                 4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Vue.js                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Go                       21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.71 % 
-VS Code                  7 hrs               ████████░░░░░░░░░░░░░░░░░   32.97 % 
-Cursor                   5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Claude Code              10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
+VS Code                  8 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
+Cursor                   4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      21 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 17:54:03 UTC
+ Last Updated on 17/03/2026 17:51:40 UTC
 <!--END_SECTION:waka-->
