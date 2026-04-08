@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C996%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C000%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                1016 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-🌆 Daytime                6717 commits        █████████████░░░░░░░░░░░░   50.40 % 
-🌃 Evening                4842 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
+🌆 Daytime                6728 commits        █████████████░░░░░░░░░░░░   50.44 % 
+🌃 Evening                4842 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
 🌙 Night                  753 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 
@@ -38,21 +38,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
-TypeScript               5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Vue.js                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-SCSS                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Other                    7 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.13 % 
+TypeScript               4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Vue.js                   3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+SCSS                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 15 mins      ███████████████░░░░░░░░░░   61.61 % 
-Claude Code              5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-VS Code                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Cursor                   11 hrs 20 mins      ███████████████░░░░░░░░░░   61.29 % 
+Claude Code              5 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+VS Code                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 💻 Operating System: 
-Mac                      18 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 17:57:18 UTC
+ Last Updated on 08/04/2026 18:01:29 UTC
 <!--END_SECTION:waka-->
