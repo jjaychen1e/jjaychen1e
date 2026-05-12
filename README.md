@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C109%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C112%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -38,22 +38,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-TypeScript               2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Other                    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Vue                      1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-YAML                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Markdown                 4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Other                    3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+TypeScript               3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+YAML                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Vue                      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 27 mins       ██████████████░░░░░░░░░░░   57.89 % 
-Unknown Editor           3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Cursor                   2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Zed                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Claude Code              10 hrs 33 mins      ██████████████░░░░░░░░░░░   55.43 % 
+Unknown Editor           5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Cursor                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Zed                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Mac                      16 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/05/2026 18:26:39 UTC
+ Last Updated on 12/05/2026 18:34:12 UTC
 <!--END_SECTION:waka-->
