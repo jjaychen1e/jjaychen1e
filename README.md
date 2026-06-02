@@ -38,21 +38,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Markdown                 5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-JSON                     4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Vue                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+TypeScript               4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Markdown                 3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+JSON                     3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Vue                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Text                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.33 % 
-Unknown Editor           8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
-Claude                   5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Unknown Editor           7 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
+Claude Code              6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
+Claude                   5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
 
 💻 Operating System: 
-Mac                      23 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 20:43:53 UTC
+ Last Updated on 02/06/2026 20:06:26 UTC
 <!--END_SECTION:waka-->
