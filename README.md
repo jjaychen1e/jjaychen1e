@@ -38,20 +38,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      3 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.04 % 
-TypeScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-SCSS                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Image (png)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Vue                      3 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.05 % 
+TypeScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+SCSS                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Image (png)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-Claude                   6 hrs 6 mins        ████████████████████████░   95.84 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Claude                   5 hrs 55 mins       ████████████████████████░   95.71 % 
+Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 💻 Operating System: 
-Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/06/2026 18:31:48 UTC
+ Last Updated on 20/06/2026 17:56:29 UTC
 <!--END_SECTION:waka-->
