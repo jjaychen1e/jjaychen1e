@@ -38,20 +38,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      3 hrs 1 min         █████████████░░░░░░░░░░░░   50.20 % 
-TypeScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-SCSS                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Image (png)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude                   5 hrs 46 mins       ████████████████████████░   95.60 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/06/2026 17:58:55 UTC
+ Last Updated on 22/06/2026 20:02:22 UTC
 <!--END_SECTION:waka-->
