@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C248%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C249%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -38,15 +38,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 40 mins             ███████████░░░░░░░░░░░░░░   43.11 % 
+JSON                     24 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Bash                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              53 mins             ██████████████░░░░░░░░░░░   57.69 % 
+Cursor                   38 mins             ██████████░░░░░░░░░░░░░░░   41.81 % 
+Claude                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2026 18:29:07 UTC
+ Last Updated on 24/06/2026 18:32:53 UTC
 <!--END_SECTION:waka-->
