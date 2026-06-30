@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C260%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C263%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -38,23 +38,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
-Java                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Markdown                 4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+TypeScript               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Java                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 28 mins       ███████████████████░░░░░░   75.17 % 
-VS Code                  1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Cursor                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Zed                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Claude Code              10 hrs 56 mins      █████████████████░░░░░░░░   69.72 % 
+VS Code                  3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Cursor                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Zed                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      12 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 18:38:30 UTC
+ Last Updated on 30/06/2026 18:21:10 UTC
 <!--END_SECTION:waka-->
