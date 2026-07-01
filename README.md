@@ -38,23 +38,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-TypeScript               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Java                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Markdown                 6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+TypeScript               5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Java                     3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+HTML                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 56 mins      █████████████████░░░░░░░░   69.72 % 
-VS Code                  3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Cursor                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Zed                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Claude Code              15 hrs 12 mins      ████████████████░░░░░░░░░   65.78 % 
+VS Code                  7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Cursor                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Zed                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      15 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 18:21:10 UTC
+ Last Updated on 01/07/2026 18:25:55 UTC
 <!--END_SECTION:waka-->
