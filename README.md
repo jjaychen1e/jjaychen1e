@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                945 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-🌆 Daytime                5616 commits        ████████████░░░░░░░░░░░░░   48.16 % 
-🌃 Evening                4363 commits        █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌆 Daytime                5618 commits        ████████████░░░░░░░░░░░░░   48.15 % 
+🌃 Evening                4367 commits        █████████░░░░░░░░░░░░░░░░   37.43 % 
 🌙 Night                  737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
@@ -38,21 +38,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-TypeScript               3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Vue                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Markdown                 4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+TypeScript               3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Vue                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 49 mins      █████████████████████░░░░   84.94 % 
-VS Code                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Claude                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Claude Code              14 hrs 42 mins      ██████████████████████░░░   87.52 % 
+VS Code                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Claude                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-Mac                      13 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 18:33:03 UTC
+ Last Updated on 08/07/2026 18:03:10 UTC
 <!--END_SECTION:waka-->
