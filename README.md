@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                952 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-🌆 Daytime                5869 commits        ████████████░░░░░░░░░░░░░   48.05 % 
-🌃 Evening                4595 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌞 Morning                953 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+🌆 Daytime                5871 commits        ████████████░░░░░░░░░░░░░   48.06 % 
+🌃 Evening                4595 commits        █████████░░░░░░░░░░░░░░░░   37.61 % 
 🌙 Night                  798 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 
@@ -38,23 +38,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-TypeScript               6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Vue                      2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Text                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Markdown                 3 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
+TypeScript               2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Text                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Vue                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-Zed                      5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-VS Code                  4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Claude                   3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Cursor                   2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Claude Code              2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Cursor                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Claude                   2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+VS Code                  2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
 
 💻 Operating System: 
-Mac                      22 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/07/2026 17:55:50 UTC
+ Last Updated on 22/07/2026 17:53:46 UTC
 <!--END_SECTION:waka-->
