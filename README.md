@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=jjaychen1e&show_icons=true)](https://github.com/jjaychen1e/github-readme-stats?count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C291%20hrs%2017%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-564%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,8 +28,8 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                977 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-🌆 Daytime                5945 commits        ████████████░░░░░░░░░░░░░   47.96 % 
-🌃 Evening                4677 commits        █████████░░░░░░░░░░░░░░░░   37.73 % 
+🌆 Daytime                5945 commits        ████████████░░░░░░░░░░░░░   47.95 % 
+🌃 Evening                4679 commits        █████████░░░░░░░░░░░░░░░░   37.74 % 
 🌙 Night                  798 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 
@@ -54,6 +56,32 @@ VS Code                  4 mins              ░░░░░░░░░░░�
 Mac                      5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 17:08:07 UTC
+```text
+⏱ AI Coding Time: 5 hrs 9 mins (100.0%)
+
+✍️ 3,876 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 12,934,439 Input Tokens, 52,184 Output Tokens
+
+💵 $60.88 Estimated AI Cost This Week
+
+🧠 44 AI Sessions, 116 AI Prompts
+
+GPT                      3,154 lines         ████████████████████░░░░░   80.58 % 
+Claude                   593 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Grok                     167 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,199 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 18:20:29 UTC
 <!--END_SECTION:waka-->
