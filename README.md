@@ -40,47 +40,47 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   33.94 % 
-TypeScript               6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Text                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Vue                      3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Bash                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Markdown                 9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
+TypeScript               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Text                     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Vue                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Bash                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.07 % 
-Cursor                   11 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.98 % 
-Claude                   7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-VS Code                  4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Claude Code              11 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
+Cursor                   9 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
+Claude                   5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+VS Code                  2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 💻 Operating System: 
-Mac                      33 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 53 mins (99.96%)
+⏱ AI Coding Time: 28 hrs 4 mins (99.95%)
 
-✍️ 51,072 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 44,069 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 546,695,001 Input Tokens, 2,226,175 Output Tokens
+🔤 286,562,325 Input Tokens, 1,337,967 Output Tokens
 
-💵 $2533.44 Estimated AI Cost This Week
+💵 $1462.77 Estimated AI Cost This Week
 
-🧠 189 AI Sessions, 933 AI Prompts
+🧠 148 AI Sessions, 760 AI Prompts
 
-Claude                   27,999 lines        █████████████░░░░░░░░░░░░   53.09 % 
-GPT                      9,890 lines         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Grok                     8,646 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Opus                     6,204 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Claude                   26,500 lines        ███████████████░░░░░░░░░░   58.20 % 
+Grok                     7,097 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Opus                     6,204 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+GPT                      5,728 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,471 characters per prompt
+📚 Verbose Prompter — average 5,249 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 18:07:03 UTC
+ Last Updated on 01/08/2026 17:37:28 UTC
 <!--END_SECTION:waka-->
