@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                1001 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                6110 commits        ████████████░░░░░░░░░░░░░   47.21 % 
-🌃 Evening                5005 commits        ██████████░░░░░░░░░░░░░░░   38.67 % 
+🌆 Daytime                6110 commits        ████████████░░░░░░░░░░░░░   47.19 % 
+🌃 Evening                5010 commits        ██████████░░░░░░░░░░░░░░░   38.70 % 
 🌙 Night                  826 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 
@@ -40,47 +40,47 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
-TypeScript               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Text                     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Vue                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Bash                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Markdown                 7 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
+TypeScript               3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Text                     2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Vue                      2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Bash                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-Cursor                   9 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Claude                   5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-VS Code                  2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Claude Code              10 hrs 59 mins      ████████████░░░░░░░░░░░░░   46.44 % 
+Cursor                   7 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Claude                   4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 💻 Operating System: 
-Mac                      28 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      23 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 4 mins (99.95%)
+⏱ AI Coding Time: 23 hrs 39 mins (99.94%)
 
-✍️ 44,069 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 36,022 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 286,562,325 Input Tokens, 1,337,967 Output Tokens
+🔤 270,733,030 Input Tokens, 1,109,275 Output Tokens
 
-💵 $1462.77 Estimated AI Cost This Week
+💵 $1382.77 Estimated AI Cost This Week
 
-🧠 147 AI Sessions, 758 AI Prompts
+🧠 126 AI Sessions, 592 AI Prompts
 
-Claude                   26,500 lines        ███████████████░░░░░░░░░░   58.20 % 
-Grok                     7,097 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Opus                     6,204 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-GPT                      5,728 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Claude                   22,255 lines        ███████████████░░░░░░░░░░   59.17 % 
+Opus                     5,858 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Grok                     5,401 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+GPT                      4,095 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,262 characters per prompt
+📚 Verbose Prompter — average 6,603 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 17:32:08 UTC
+ Last Updated on 04/08/2026 18:24:26 UTC
 <!--END_SECTION:waka-->
