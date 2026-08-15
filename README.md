@@ -40,35 +40,35 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
-Markdown                 4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-TypeScript               1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Vue                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Text                     6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Markdown                 4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+TypeScript               1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Vue                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Agent                    9 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.11 % 
-Cursor                   7 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Claude                   2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Codex Vscode             2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Claude Code              1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Cursor                   7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.72 % 
+Agent                    7 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
+Claude                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Codex Vscode             2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Claude Code              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Mac                      22 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 53 mins (100.0%)
+⏱ AI Coding Time: 20 hrs 15 mins (100.0%)
 
 ✍️ 19,105 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 36,033,923 Input Tokens, 32,992,284 Output Tokens
+🔤 28,469,776 Input Tokens, 25,584,469 Output Tokens
 
-💵 $420.60 Estimated AI Cost This Week
+💵 $330.87 Estimated AI Cost This Week
 
-🧠 400 AI Sessions, 610 AI Prompts
+🧠 338 AI Sessions, 553 AI Prompts
 
 Claude                   14,091 lines        █████████████████░░░░░░░░   69.80 % 
 Grok                     3,996 lines         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
@@ -77,11 +77,11 @@ Sonnet                   391 lines           ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 212,165 characters per prompt
+📚 Verbose Prompter — average 180,687 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 17:34:43 UTC
+ Last Updated on 15/08/2026 17:03:48 UTC
 <!--END_SECTION:waka-->
