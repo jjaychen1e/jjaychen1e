@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1067 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-🌆 Daytime                6292 commits        ████████████░░░░░░░░░░░░░   46.71 % 
-🌃 Evening                5255 commits        ██████████░░░░░░░░░░░░░░░   39.01 % 
+🌞 Morning                1068 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+🌆 Daytime                6300 commits        ████████████░░░░░░░░░░░░░   46.73 % 
+🌃 Evening                5258 commits        ██████████░░░░░░░░░░░░░░░   39.00 % 
 🌙 Night                  857 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 
@@ -40,35 +40,35 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-Text                     4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-TypeScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Vue                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-HTML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Markdown                 4 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
+TypeScript               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Vue                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+HTML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Swift                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.73 % 
-Agent                    4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Claude                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Codex Vscode             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Claude Code              1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Cursor                   7 hrs 26 mins       █████████████░░░░░░░░░░░░   53.60 % 
+Claude                   2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Codex Vscode             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Agent                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Claude Code              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 💻 Operating System: 
-Mac                      17 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 52 mins (100.0%)
 
 ✍️ 19,027 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,894,179 Input Tokens, 17,019,145 Output Tokens
+🔤 9,803,511 Input Tokens, 6,990,735 Output Tokens
 
-💵 $226.51 Estimated AI Cost This Week
+💵 $106.05 Estimated AI Cost This Week
 
-🧠 264 AI Sessions, 476 AI Prompts
+🧠 185 AI Sessions, 400 AI Prompts
 
 Claude                   14,091 lines        ██████████████████░░░░░░░   70.07 % 
 Grok                     3,996 lines         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
@@ -77,11 +77,11 @@ Sonnet                   391 lines           ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 139,700 characters per prompt
+📚 Verbose Prompter — average 65,946 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 17:01:07 UTC
+ Last Updated on 18/08/2026 17:13:33 UTC
 <!--END_SECTION:waka-->
