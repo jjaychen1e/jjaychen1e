@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1150 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-🌆 Daytime                6381 commits        ████████████░░░░░░░░░░░░░   46.52 % 
-🌃 Evening                5327 commits        ██████████░░░░░░░░░░░░░░░   38.84 % 
-🌙 Night                  859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌞 Morning                1151 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+🌆 Daytime                6378 commits        ████████████░░░░░░░░░░░░░   46.52 % 
+🌃 Evening                5321 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 
@@ -40,49 +40,49 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   39.93 % 
-HTML                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-JSON                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-TypeScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Java                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Markdown                 7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.92 % 
+JSON                     3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+HTML                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Java                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 🔥 Editors: 
-Codex CLI                13 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.07 % 
-Agent                    5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Claude Code              3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Codex Vscode             3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Claude                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Codex CLI                8 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.92 % 
+Agent                    4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Claude Code              2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Codex Vscode             2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Cursor                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 💻 Operating System: 
-Mac                      27 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 32 mins (100.0%)
+⏱ AI Coding Time: 19 hrs 31 mins (100.0%)
 
-✍️ 6,775 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,627 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,746,159 Input Tokens, 4,831,996 Output Tokens
+🔤 22,321,604 Input Tokens, 3,482,453 Output Tokens
 
-💵 $721.40 Estimated AI Cost This Week
+💵 $409.43 Estimated AI Cost This Week
 
-🧠 235 AI Sessions, 463 AI Prompts
+🧠 147 AI Sessions, 293 AI Prompts
 
-GPT                      6,499 lines         ██████████████████████░░░   90.00 % 
-Claude                   617 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Sonnet                   105 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+GPT                      3,589 lines         ████████████████████████░   97.16 % 
+Sonnet                   105 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 23,290 characters per prompt
+📚 Verbose Prompter — average 31,735 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/09/2026 19:35:42 UTC
+ Last Updated on 19/09/2026 18:34:15 UTC
 <!--END_SECTION:waka-->
