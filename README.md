@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1151 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-🌆 Daytime                6381 commits        ████████████░░░░░░░░░░░░░   46.42 % 
-🌃 Evening                5355 commits        ██████████░░░░░░░░░░░░░░░   38.96 % 
+🌞 Morning                1155 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+🌆 Daytime                6381 commits        ████████████░░░░░░░░░░░░░   46.39 % 
+🌃 Evening                5359 commits        ██████████░░░░░░░░░░░░░░░   38.96 % 
 🌙 Night                  859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
@@ -40,37 +40,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.24 % 
-JSON                     3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Java                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Markdown                 5 hrs 55 mins       █████████████░░░░░░░░░░░░   52.35 % 
+JSON                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+HTML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Java                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.49 % 
-Agent                    4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Claude Code              2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Codex Vscode             1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Cursor                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Codex CLI                5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.23 % 
+Agent                    2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Claude Code              1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Codex Vscode             1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Claude                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 💻 Operating System: 
-Mac                      17 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 36 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 18 mins (100.0%)
 
-✍️ 3,305 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,546 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,235,736 Input Tokens, 3,179,304 Output Tokens
+🔤 13,107,901 Input Tokens, 1,927,851 Output Tokens
 
-💵 $384.77 Estimated AI Cost This Week
+💵 $241.54 Estimated AI Cost This Week
 
-🧠 132 AI Sessions, 271 AI Prompts
+🧠 93 AI Sessions, 199 AI Prompts
 
-GPT                      3,353 lines         █████████████████████████   100.00 % 
+GPT                      2,580 lines         █████████████████████████   100.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -78,11 +78,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 31,171 characters per prompt
+📚 Verbose Prompter — average 21,938 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 21:02:22 UTC
+ Last Updated on 22/09/2026 20:23:22 UTC
 <!--END_SECTION:waka-->
