@@ -24,6 +24,37 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 23/09/2026 20:13:29 UTC
+```text
+🌞 Morning                1155 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+🌆 Daytime                6381 commits        ████████████░░░░░░░░░░░░░   46.27 % 
+🌃 Evening                5395 commits        ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌙 Night                  859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 24/09/2026 20:42:28 UTC
 <!--END_SECTION:waka-->
