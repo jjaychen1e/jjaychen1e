@@ -40,46 +40,46 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 59 mins      ██████████████░░░░░░░░░░░   55.70 % 
-Other                    4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Java                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Markdown                 13 hrs 55 mins      ██████████████░░░░░░░░░░░   57.21 % 
+Other                    4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+HTML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Vue                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 44 mins      █████████████████████████   98.48 % 
-Codex Vscode             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Claude Code              23 hrs 56 mins      █████████████████████████   98.43 % 
+Codex Vscode             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Mac                      25 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      24 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 7 mins (100.0%)
+⏱ AI Coding Time: 24 hrs 19 mins (100.0%)
 
-✍️ 22,296 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 22,159 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 28,217,127 Input Tokens, 6,316,045 Output Tokens
+🔤 28,163,319 Input Tokens, 6,263,330 Output Tokens
 
-💵 $313.11 Estimated AI Cost This Week
+💵 $309.43 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 530 AI Prompts
+🧠 40 AI Sessions, 520 AI Prompts
 
-Haiku                    7,835 lines         █████████░░░░░░░░░░░░░░░░   34.52 % 
-Sonnet                   7,103 lines         ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Opus                     7,069 lines         ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Claude                   689 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Haiku                    7,835 lines         █████████░░░░░░░░░░░░░░░░   34.73 % 
+Sonnet                   7,103 lines         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Opus                     6,937 lines         ████████░░░░░░░░░░░░░░░░░   30.75 % 
+Claude                   684 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,309 characters per prompt
+📄 Detailed Prompter — average 1,331 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 18:52:02 UTC
+ Last Updated on 18/10/2026 19:11:29 UTC
 <!--END_SECTION:waka-->
