@@ -4,12 +4,209 @@ on:
   schedule:
     - cron: '00 16 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Pre-flight check credentials and warm up WakaTime stats
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import sys
+          import time
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+
+          WAKA_KEY = os.environ.get("WAKATIME_API_KEY", "")
+          GH_TOKEN = os.environ.get("GH_TOKEN", "")
+          WAKA_BASE = os.environ.get("WAKATIME_API_URL", "https://wakatime.com/api/v1/").rstrip("/")
+          GH_BASE = os.environ.get("GITHUB_API_URL", "https://api.github.com").rstrip("/")
+          MAX_202_RETRIES = int(os.environ.get("PREFLIGHT_MAX_202_RETRIES", "12"))
+          DELAY_202 = float(os.environ.get("PREFLIGHT_202_DELAY", "10"))
+          MAX_TRANSIENT_RETRIES = int(os.environ.get("PREFLIGHT_MAX_TRANSIENT_RETRIES", "3"))
+          DELAY_TRANSIENT = float(os.environ.get("PREFLIGHT_TRANSIENT_DELAY", "5"))
+
+
+          def sanitize(text: str) -> str:
+              for secret in (WAKA_KEY, GH_TOKEN):
+                  if secret:
+                      text = text.replace(secret, "***")
+                      text = text.replace(urllib.parse.quote(secret, safe=""), "***")
+              return text.replace("\r", " ").replace("\n", " ")
+
+
+          def fail(msg: str) -> None:
+              print(f"::error::{sanitize(msg)}", flush=True)
+              sys.exit(1)
+
+
+          def extract_error_detail(raw: str) -> str:
+              try:
+                  payload = json.loads(raw)
+                  if isinstance(payload, dict):
+                      if isinstance(payload.get("error"), str):
+                          return payload["error"]
+                      if isinstance(payload.get("errors"), list) and payload["errors"]:
+                          return "; ".join(str(x) for x in payload["errors"])
+                      if isinstance(payload.get("message"), str):
+                          return payload["message"]
+              except Exception:
+                  pass
+              return " ".join(raw.split())[:300] or "(empty response body)"
+
+
+          def check_github_token() -> None:
+              if not GH_TOKEN:
+                  fail("Repository secret GH_TOKEN is missing or empty.")
+              if GH_TOKEN.strip() != GH_TOKEN:
+                  fail("Repository secret GH_TOKEN contains leading or trailing whitespace. Re-save it cleanly.")
+
+              req = urllib.request.Request(
+                  f"{GH_BASE}/user",
+                  headers={
+                      "Authorization": f"Bearer {GH_TOKEN}",
+                      "Accept": "application/vnd.github+json",
+                      "User-Agent": "waka-readme-preflight",
+                  },
+              )
+              for attempt in range(1, MAX_TRANSIENT_RETRIES + 2):
+                  try:
+                      with urllib.request.urlopen(req, timeout=30) as resp:
+                          data = json.loads(resp.read().decode("utf-8", errors="replace"))
+                          remaining = resp.headers.get("X-RateLimit-Remaining", "?")
+                          print(f"GH_TOKEN OK (user={data.get('login', '?')}, core_ratelimit_remaining={remaining})", flush=True)
+                          return
+                  except urllib.error.HTTPError as e:
+                      body = e.read().decode("utf-8", errors="replace")
+                      detail = extract_error_detail(body)
+                      if e.code == 403 and e.headers.get("X-RateLimit-Remaining") == "0":
+                          reset = e.headers.get("X-RateLimit-Reset", "?")
+                          fail(f"GitHub API rate limit exhausted (reset={reset}): {detail}")
+                      if e.code in (401, 403):
+                          fail(
+                              f"GH_TOKEN rejected by GitHub API (HTTP {e.code}: {detail}). "
+                              "Check or regenerate repository secret GH_TOKEN with repo and user scopes."
+                          )
+                      if e.code in (429, 500, 502, 503, 504) and attempt <= MAX_TRANSIENT_RETRIES:
+                          wait = DELAY_TRANSIENT * attempt
+                          print(f"GitHub API transient HTTP {e.code}; retrying in {wait:.0f}s ({attempt}/{MAX_TRANSIENT_RETRIES})...", flush=True)
+                          time.sleep(wait)
+                          continue
+                      fail(f"GitHub API pre-flight check failed (HTTP {e.code}: {detail}).")
+                  except Exception as e:
+                      if attempt <= MAX_TRANSIENT_RETRIES:
+                          wait = DELAY_TRANSIENT * attempt
+                          print(f"GitHub API network error ({sanitize(str(e))}); retrying in {wait:.0f}s ({attempt}/{MAX_TRANSIENT_RETRIES})...", flush=True)
+                          time.sleep(wait)
+                          continue
+                      fail(f"GitHub API pre-flight network error: {e}")
+
+
+          def check_wakatime_endpoint(path: str) -> None:
+              query = urllib.parse.urlencode({"api_key": WAKA_KEY})
+              url = f"{WAKA_BASE}/{path}?{query}"
+              req = urllib.request.Request(url, headers={"User-Agent": "waka-readme-preflight"})
+
+              accepted_attempts = 0
+              transient_attempts = 0
+              while True:
+                  try:
+                      with urllib.request.urlopen(req, timeout=30) as resp:
+                          status = resp.status
+                          body = resp.read().decode("utf-8", errors="replace")
+                          if status == 200:
+                              payload = json.loads(body)
+                              if not isinstance(payload, dict) or not isinstance(payload.get("data"), dict):
+                                  fail(f"WakaTime {path} returned HTTP 200 without a valid 'data' object.")
+                              print(f"WakaTime {path}: HTTP 200 OK", flush=True)
+                              return
+                          if status in (201, 202):
+                              accepted_attempts += 1
+                              if accepted_attempts <= MAX_202_RETRIES:
+                                  print(
+                                      f"WakaTime {path}: HTTP {status} (stats computing); "
+                                      f"waiting {DELAY_202:.0f}s ({accepted_attempts}/{MAX_202_RETRIES})...",
+                                      flush=True,
+                                  )
+                                  time.sleep(DELAY_202)
+                                  continue
+                              fail(
+                                  f"WakaTime {path} still returned HTTP {status} after {MAX_202_RETRIES} retries. "
+                                  "Aborting to prevent waka-readme-stats from overwriting README with blank stats."
+                              )
+                          fail(f"WakaTime {path}: unexpected HTTP {status}: {extract_error_detail(body)}")
+                  except urllib.error.HTTPError as e:
+                      body = e.read().decode("utf-8", errors="replace")
+                      detail = extract_error_detail(body)
+                      if e.code in (401, 403):
+                          fail(
+                              f"WakaTime {path} rejected credentials (HTTP {e.code}: {detail}). "
+                              "Since 2026-11-01, WakaTime API keys are plugin-only (write-only). "
+                              "Obtain a personal OAuth token at https://wakatime.com/oauth and update repository secret WAKATIME_API_KEY."
+                          )
+                      if e.code in (429, 500, 502, 503, 504):
+                          transient_attempts += 1
+                          if transient_attempts <= MAX_TRANSIENT_RETRIES:
+                              wait = DELAY_TRANSIENT * transient_attempts
+                              print(
+                                  f"WakaTime {path}: transient HTTP {e.code}; "
+                                  f"retrying in {wait:.0f}s ({transient_attempts}/{MAX_TRANSIENT_RETRIES})...",
+                                  flush=True,
+                              )
+                              time.sleep(wait)
+                              continue
+                      fail(f"WakaTime {path} failed (HTTP {e.code}: {detail}).")
+                  except Exception as e:
+                      transient_attempts += 1
+                      if transient_attempts <= MAX_TRANSIENT_RETRIES:
+                          wait = DELAY_TRANSIENT * transient_attempts
+                          print(
+                              f"WakaTime {path}: network error ({sanitize(str(e))}); "
+                              f"retrying in {wait:.0f}s ({transient_attempts}/{MAX_TRANSIENT_RETRIES})...",
+                              flush=True,
+                          )
+                          time.sleep(wait)
+                          continue
+                      fail(f"WakaTime {path} network error: {e}")
+
+
+          def main() -> None:
+              if not WAKA_KEY:
+                  fail(
+                      "Repository secret WAKATIME_API_KEY is missing or empty. "
+                      "Set it to a personal OAuth token from https://wakatime.com/oauth."
+                  )
+              if WAKA_KEY.strip() != WAKA_KEY:
+                  fail("Repository secret WAKATIME_API_KEY contains leading or trailing whitespace. Re-save it cleanly.")
+              if WAKA_KEY.lower().startswith("bearer "):
+                  fail("Repository secret WAKATIME_API_KEY must contain only the raw token, without a 'Bearer ' prefix.")
+
+              check_github_token()
+              check_wakatime_endpoint("users/current/stats/all_time")
+              check_wakatime_endpoint("users/current/stats/last_7_days")
+
+
+          if __name__ == "__main__":
+              main()
+          PY
+
+      - name: Update README with Dev Metrics
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
