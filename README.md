@@ -16,21 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C470%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C586%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-761%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-902%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1396 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-🌆 Daytime                6823 commits        ███████████░░░░░░░░░░░░░░   45.86 % 
-🌃 Evening                5757 commits        ██████████░░░░░░░░░░░░░░░   38.69 % 
-🌙 Night                  903 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-```
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -38,47 +28,45 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 hrs 59 mins      ██████████████░░░░░░░░░░░   55.86 % 
-TypeScript               4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Other                    3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Python                   2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-HTML                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Markdown                 17 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   33.67 % 
+TypeScript               6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Other                    6 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Text                     4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+JSON                     4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-Claude Code              43 hrs 49 mins      ████████████████████████░   97.99 % 
-Cursor Agent             28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Codex Vscode             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Claude Code              50 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      44 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 50 hrs 39 mins (100.0%)
 
-✍️ 51,336 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 30,609 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 44,245,772 Input Tokens, 9,212,897 Output Tokens
+🔤 91,564,896 Input Tokens, 7,332,857 Output Tokens
 
-💵 $675.79 Estimated AI Cost This Week
+💵 $2639.92 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 703 AI Prompts
+🧠 233 AI Sessions, 1172 AI Prompts
 
-Opus                     47,633 lines        ███████████████████████░░   91.14 % 
-Sonnet                   2,476 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Claude                   2,155 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hydrogen                 15,495 lines        █████████████████░░░░░░░░   67.99 % 
+Claude                   2,665 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Fable                    1,647 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Gemini                   1,634 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Astra                    629 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,759 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
+📚 Verbose Prompter — average 4,288 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/10/2026 20:35:22 UTC
+ Last Updated on 23/11/2026 05:23:02 UTC
 <!--END_SECTION:waka-->
